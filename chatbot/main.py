@@ -1,7 +1,7 @@
 import openai
 import os
 
-openai.api_key = "OpenAI_API_Key"
+openai.api_key = "OpenAI_API_Key goes here"
 
 class virtualAssisstant:
     def __init__(self):
